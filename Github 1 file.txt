@@ -1,7 +1,6 @@
 player1 = 50
 player2 = 40
 player3 = 30
-print("player1, player2, player3")
 if player2>=player1:
  print("low")
 elif player2<player3:
