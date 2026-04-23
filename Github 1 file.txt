@@ -7,3 +7,12 @@ elif player2<player3:
  print("high")
 else:
  print("correct")
+
+
+2nd program:
+scrambled = "nohtpy","ivug","testyp"
+unscrambled = "python","guvi","pytest"
+if player1="Find the scrambled word="nohtpy""
+   print("python")
+Else:
+   Print("guvi")
