@@ -15,5 +15,9 @@ Happy Numbers:
 numbers=(10,501,22,37,100,999,87,351)
 print(numbers[1],numbers[7])
 
+sorting the element :
+numbers=[10,501,22,100,999,87,351]
+numbers.sort()
+print(numbers)
 
 
